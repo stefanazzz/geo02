@@ -1,5 +1,5 @@
 from pylab import *
-nx=  145; ny=32; npm=  12
+nx=  128; ny=52; npm=  12
 v1=zeros([ny,nx])
 v2=zeros([ny,nx])
 #
