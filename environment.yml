@@ -1,0 +1,8 @@
+name: JupyTest-environment
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - obspy
+  - seaborn
