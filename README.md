@@ -1,3 +1,3 @@
-# JupyTest
-test web hosting of python program on mybinder.org
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanazzz/JupyTest/master)
+# geo02
+test complex environment gor gimli + obspy
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanazzz/geo02/master)
