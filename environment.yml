@@ -1,6 +1,6 @@
-name: geo04
 channels:
-  - anaconda
-  - conda-forge
-  - defaults
-  - ipympl
+- conda-forge
+- gimli
+- defaults
+dependencies:
+- pygimli>=1.1.0
